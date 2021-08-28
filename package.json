@@ -1,0 +1,27 @@
+{
+  "name": "livecrypto",
+  "version": "1.0.0",
+  "bin": "./bin/livecrypto.js",
+  "description": "A Live Cryptocurrency Application with Nomics API in the Command Line Interface(CLI) using Node JS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N-liraj-khanna/Live-Crypto-CLI.git"
+  },
+  "author": "N Liraj Khanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N-liraj-khanna/Live-Crypto-CLI/issues"
+  },
+  "homepage": "https://github.com/N-liraj-khanna/Live-Crypto-CLI#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "commander": "^8.1.0",
+    "configstore": "^6.0.0",
+    "inquirer": "^8.1.2"
+  }
+}
