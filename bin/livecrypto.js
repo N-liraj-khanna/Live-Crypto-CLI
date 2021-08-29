@@ -1,5 +1,10 @@
 #!/usr/bin/env node
 
-console.log("Welcome to Live Crypto!");
+const { program } = require("commander");
+const pkg=require("../package.json");
 
-console.log(process.argv);
+program
+  .version(pkg.version)
+  .command("key", "Adminster API KEY -- https://nomics.com")
+  .parse(process.argv);
+
