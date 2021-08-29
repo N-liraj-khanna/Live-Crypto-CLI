@@ -3,14 +3,14 @@ const colors=require("colors");
 const KeyManager = require("../lib//keymanager");
 const {isRequired} = require("../utils/validation");
 
-
 const key = {
   async set(){
     const keyManager = new KeyManager();
     const input = await inquirer.prompt([
       {
-        type: "input",
+        type: "password",
         name: "apikey",
+        mask: '*',
         message: "Enter your API Key - ".cyan + "https://nomics.com".red,
         validate: isRequired
       }
