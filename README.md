@@ -73,9 +73,9 @@ livecrypto check --coin=BTC --cur=USD
 ```
 ## Screenshots
 ____
-![1.png]([http://url/to/img.png](https://github.com/N-liraj-khanna/Live-Crypto-CLI/tree/master/Screenshots/1.png))
+![1.png](Screenshots/1.png)
 
-![2.png]([http://url/to/img.png](https://github.com/N-liraj-khanna/Live-Crypto-CLI/tree/master/Screenshots/1.png))
+![2.png](Screenshots/2.png)
 
 ## Built Using 
 ___
