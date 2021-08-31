@@ -38,7 +38,7 @@ npm install
 npm link
 ```
 
-## Help Commands
+## Help Commands(Terminal/CMD)
 
 ```sh
 livecrypto -h
@@ -47,7 +47,7 @@ livecrypto check -h
 
 ```
 
-## Commands
+## Commands(Terminal/CMD)
 
 ```sh
 # Version
