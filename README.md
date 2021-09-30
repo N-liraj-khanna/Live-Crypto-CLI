@@ -96,7 +96,7 @@ ___
 
 * Website: https://github.com/N-liraj-khanna
 * Github: [@N-liraj-khanna](https://github.com/N-liraj-khanna)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/n-liraj-khanna-227aa01ba\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/n-liraj-khanna-227aa01ba\/)
+* LinkedIn: [@https://www.linkedin.com/in/n-lirajkhanna/](https://www.linkedin.com/in/n-lirajkhanna/)
 
 ## 🤝 Contributing
 
